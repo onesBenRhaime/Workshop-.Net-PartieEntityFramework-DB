@@ -1,0 +1,195 @@
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.exe
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.deps.json
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.runtimeconfig.json
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.pdb
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Humanizer.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\System.CodeDom.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Text.Json.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.AssemblyInfoInputs.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.AssemblyInfo.cs
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.CoreCompileInputs.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.CopyComplete
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\refint\Examen.Console.dll
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.pdb
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.genruntimeconfig.cache
+D:\.NET 23-24\Examen\ExamenImp\Examen.Console\obj\Debug\net6.0\ref\Examen.Console.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.exe
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.deps.json
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.runtimeconfig.json
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.pdb
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.AssemblyInfo.cs
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.CopyComplete
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\refint\Examen.Console.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.pdb
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.genruntimeconfig.cache
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\ref\Examen.Console.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Infra.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Infra.pdb
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\pc\Desktop\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.exe
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.deps.json
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.runtimeconfig.json
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Console.pdb
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Infra.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.Infra.pdb
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.AssemblyReference.cache
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.AssemblyInfoInputs.cache
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.AssemblyInfo.cs
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.CoreCompileInputs.cache
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.csproj.CopyComplete
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\refint\Examen.Console.dll
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.pdb
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\Examen.Console.genruntimeconfig.cache
+C:\Users\BAZINFO\Desktop\classroom\S2\.Net\tp\TPP\ExamenImp\Examen.Console\obj\Debug\net6.0\ref\Examen.Console.dll
